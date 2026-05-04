@@ -5,11 +5,6 @@
 ## What You'll Find Here
 A curated collection of production-grade Proofs-of-Concept (PoCs) designed to demonstrate complex architectural patterns, security compliance, and data-driven automation before scaling to full enterprise deployments.
 
-### Core Focus Areas
-* 🔒 **Security & Compliance:** ISO 27001 alignment, GDPR/LGPD/HIPAA readiness, cryptographic controls, and penetration test remediation.
-* 🏥 **Mission-Critical Systems:** Legacy modernization, zero-downtime migrations, and high-throughput data pipelines for healthcare & finance.
-* 🤖 **AI & Automation:** Production-ready LLM integration, predictive modeling, and intelligent workflow orchestration.
-
 ---
 
 ## 🛠️ Technology Stack
