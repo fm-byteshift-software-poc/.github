@@ -1,4 +1,4 @@
-# FM ByteShift Software - Engineering POCs
+# FM ByteShift Software - Engineering PoCs
 
 > Validating secure, scalable architectures and AI integration for mission-critical systems in highly regulated sectors.
 
